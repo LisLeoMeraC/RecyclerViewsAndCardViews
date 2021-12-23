@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/liste/Documents/ProyectosAPPMovil/CardViewsEvaluadores/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/liste/Documents/ProyectosAPPMovil/CardViewsEvaluadores/app/src/main/res/layout-v31/evaluadosadapter.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/liste/Documents/ProyectosAPPMovil/CardViewsEvaluadores/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/liste/Documents/ProyectosAPPMovil/CardViewsEvaluadores/app/src/main/res/layout/cuadro_revista.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/liste/Documents/ProyectosAPPMovil/CardViewsEvaluadores/app/src/main/res/layout/evaluadores.xml" value="0.33" />
+        <entry key="..\:/Users/liste/Documents/ProyectosAPPMovil/CardViewsEvaluadores/app/src/main/res/layout/evaluados.xml" value="0.14479166666666668" />
+        <entry key="..\:/Users/liste/Documents/ProyectosAPPMovil/CardViewsEvaluadores/app/src/main/res/layout/evaluadosadapter.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/liste/Documents/ProyectosAPPMovil/CardViewsEvaluadores/app/src/main/res/layout/list_evaluados.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
